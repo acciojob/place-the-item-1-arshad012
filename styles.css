@@ -3,7 +3,7 @@
 	width: 100%;
 	display: flex;
 	flex-wrap: wrap;
-	gap: 8px;
+	justify-content: space-between;
 }
 .item {
 	width: 100px;
